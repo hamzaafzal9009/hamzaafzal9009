@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamzaafzal9009
 - 👀 I’m interested in developing web applications.
-- 🌱 I have strong knowledge and experience in HTML5, CSS3, JavaScript, React.js, Vue.js, Node.js, PHP, MySQL, Laravel, Livewire and Codignator. 
+- 🌱 I have strong knowledge and experience in HTML5, CSS3, JavaScript, React.js, Vue.js, Node.js, Express.js, PHP, MySQL, and Laravel. 
 - 💞️ I can work on new or underdeveloped projects also I can work alone and with the team
 - 📫 hamzaafzal9009@gmail.com Contact me 
 
